@@ -7,7 +7,7 @@ const typing = document.getElementById("typing");
 const words = [
     "Back-end Java",
     "Java Developer",
-    "Desenvolvedor de software"
+    "de software"
 ];
 
 let wordIndex = 0;
